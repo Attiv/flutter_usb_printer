@@ -33,6 +33,7 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+	namespace 'app.mylekha.client.flutter_usb_printer'
 }
 
 dependencies {
